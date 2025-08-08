@@ -79,23 +79,23 @@ streamlit run app.py
 
 ---
 
-📚 Dataset
+##📚 Dataset
 
 Adult Income Dataset from UCI Machine Learning Repository
 
 
 
 ---
-👤 Author
+##👤 Author
 
-Brijeshrath67
+Sai Geetanjali Tammina
 
-BTech CSE (AI & ML)
+BTech Information Technology
 
 
 ---
 
-🌟 Acknowledgements
+##🌟 Acknowledgements
 
 UCI ML Repository
 
@@ -107,7 +107,7 @@ Scikit-learn Docs
 
 ---
 
-📌 Future Improvements
+##📌 Future Improvements
 
 Add cloud deployment (e.g., Streamlit Cloud, Render, or HuggingFace)
 
