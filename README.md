@@ -86,7 +86,7 @@ Adult Income Dataset from UCI Machine Learning Repository
 
 
 ---
-##👤 Author
+## 👤 Author
 
 Sai Geetanjali Tammina
 
@@ -95,7 +95,7 @@ BTech Information Technology
 
 ---
 
-##🌟 Acknowledgements
+## 🌟 Acknowledgements
 
 UCI ML Repository
 
@@ -107,7 +107,7 @@ Scikit-learn Docs
 
 ---
 
-##📌 Future Improvements
+## 📌 Future Improvements
 
 Add cloud deployment (e.g., Streamlit Cloud, Render, or HuggingFace)
 
